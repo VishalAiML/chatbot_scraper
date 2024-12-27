@@ -178,7 +178,7 @@ openai==0.27.8
 #### **Step 5: Run the Script**
 - Execute the Python script in the terminal:
   ```bash
-  python chatbot_scraper.py
+  python chatbot.py
   ```
 - Follow the prompts to provide the website URL and interact with the chatbot.
 
@@ -251,7 +251,7 @@ A typical project structure:
 ```plaintext
 project/
 │
-├── chatbot_scraper.py       # Main Python script
+├── chatbot.py               # Main Python script
 ├── requirements.txt         # Dependencies list
 └── README.md                # Documentation file (optional)
 ```
